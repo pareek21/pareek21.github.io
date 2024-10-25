@@ -2,18 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student at <a href='https://www.cs.washington.edu/'>UW</a>. Previously: <a href='https://www.citadel.com/'> Citadel</a> | <a href='https://www.ml.cmu.edu/'> CMU</a> | <a href='https://www.cse.iitb.ac.in/'>IIT Bombay</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_7729.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
