@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://www.cs.washington.edu/'>UW</a> • Previously <a href='https://www.citadel.com/'>Citadel</a> | <a href='https://www.ml.cmu.edu/'>CMU</a> | <a href='https://www.cse.iitb.ac.in/'>IIT Bombay</a>
+subtitle: PhD student at <a href='https://www.cs.washington.edu/'>UW</a> • Previously <a href='https://www.citadel.com/'>Citadel</a> | <a href='https://www.ml.cmu.edu/'>CMU</a> | <a href='https://www.cse.iitb.ac.in/'>IITB</a>
 
 profile:
   align: right
