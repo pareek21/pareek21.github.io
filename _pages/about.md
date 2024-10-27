@@ -19,4 +19,4 @@ Hello! I am a PhD student (2023-present) at the [University of Washington](https
 
 Previously, I worked in quantitative investment research at GQS, [Citadel](https://www.citadel.com/). I got my master's in Machine Learning from [Carnegie Mellon University](https://www.ml.cmu.edu/), and my bachelor's in Computer Science and Engineering from [IIT Bombay](https://www.cse.iitb.ac.in/), with a minor in Statistics. 
 
-<p style="text-align: center;">This text will be centered</p>
+<p style="text-align: center;">This text will be centered but to the left.                                 </p>
