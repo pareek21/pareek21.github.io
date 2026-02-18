@@ -6,7 +6,7 @@ subtitle: PhD student at <a href='https://www.cs.washington.edu/'>UW</a> • Pre
 
 profile:
   align: right
-  image: IMG_1517_cropped.jpeg
+  image: IMG_0372.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
 
